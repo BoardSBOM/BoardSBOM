@@ -22,8 +22,16 @@ answer
 
 ## More detailed FAQ
 
-### FAQ
-answer
+### How will our company’s SBOM strategy increase or decrease our revenue?
+A1: produce and supply USG
+
+A2: consume and supply USG
+
+A3: profit vs nonprofit
+
+should this be a 'opportunity' FAQ that leads to diff Q for profit and nonprofit?
+
+See Issue #3 for issue on whether to split this into multiple questions or have several conditional answers
 
 ### FAQ
 answer
