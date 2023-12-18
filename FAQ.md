@@ -17,7 +17,7 @@ This Board section is divided into 4 sections which could be viewed as a pryrami
 ### FAQ
 answer
 
-### FAQ
+### How will our company’s SBOM strategy increase or decrease our expenses?
 answer
 
 ## More detailed FAQ
