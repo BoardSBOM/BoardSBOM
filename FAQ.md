@@ -17,8 +17,14 @@ This Board section is divided into 4 sections which could be viewed as a pryrami
 ### FAQ
 answer
 
-### FAQ
-answer
+### Why should Boards care about SBOM strategy now?
+"Software is eating the world." 
+Digital transformation and the rise in cyber crime have changed the landscape. 
+What were reasonable assumptions about how software affects your buiness 
+are no longer true and need to be revisited. 
+Your SBOM strategy may or may not rate Board level discussion, 
+but it is much more likely now and likely to be more so in the future. 
+See the previous FAQ and the FAQs in the following subsections for more detail.
 
 ## More detailed FAQ
 
