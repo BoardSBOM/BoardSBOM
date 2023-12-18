@@ -14,8 +14,12 @@ This Board section is divided into 4 sections which could be viewed as a pryrami
 
 ## FAQ for all Board Members
 
-### FAQ
-answer
+### As a Board Member, do I need to know about SBOMs?
+No. However, all Board Members should feel comfortable that the appropriate Board roles 
+and Executive Team members know the corporate SBOM strategy, 
+the strategic opportunties it offers (if any), 
+and the existential risks (if any) that it mitigates. 
+The opportunities and risks differ for public/private, profit/non-profile, your industry, and your company specifics. See the FAQs in the following subsections for more detail.
 
 ### FAQ
 answer
