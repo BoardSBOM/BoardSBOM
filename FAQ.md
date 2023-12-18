@@ -31,8 +31,8 @@ answer
 ### FAQ
 answer
 
-### FAQ
-answer
+### How do SBOMs relate to FARs?
+If the company supplies to the US Gov, either directly or indirectly, then the FARs requirments on SBOMs apply. See Q&A on revenue.
 
 ### FAQ
 answer
